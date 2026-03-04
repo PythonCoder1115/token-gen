@@ -20,9 +20,6 @@
 ## Screenshot
 ![picture](github_assets/token-gen-screenshot.png)
 
-## Proxies
-We recommend https://nullproxies.com?ref=F5B2BB30 for the most seemless expierence.
-
 ## Features 
 - **`Broswer Based Hcaptcha Solving`** - Browser Based Hcaptcha Solving on own html file
 - **`Verifying Discord Accounts`** - Verifies Discord Accounts By Mail API
